@@ -1,0 +1,20 @@
+# HIP PATH 
+
+export HFIP_CODE_DIR=/home/jinlong/VDisk1/Jinlong/2024_homologous_parcellation
+export CBIG_CODE_DIR=/home/jinlong/VDisk1/Jinlong/external_package/parcellation_method/CBIG
+export GORDON_CODE_DIR=/home/jinlong/VDisk1/Jinlong/external_package/parcellation_method/Gordon2016_mod
+export HCPPIPE_TASKDIR=/home/jinlong/VDisk1/Jinlong/external_package/image_process/HCP_pipeline/
+export DATASET_DIR=/home/jinlong/VDisk2/Jinlong/data
+export HCPD_DIR=/home/jinlong/VDisk2/datasets/HCD
+export WB_DIR=/opt/workbench/bin_linux64/wb_command
+export FSL_DIR=/usr/local/fsl/share/fsl/bin/fsl
+export FREESURFER_HOME=/usr/local/freesurfer/6.0.1
+export OUT_RET_DIR=/home/jinlong/VDisk2/Jinlong/2024_IHFPs_result
+export RESOURCE_DIR=/home/jinlong/VDisk1/Jinlong/2024_IHFPs/resources/
+
+
+
+
+
+
+
