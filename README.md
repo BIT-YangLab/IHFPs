@@ -3,7 +3,7 @@
 The code of the individualized homologous functional parcellation procedure
 
 ## Directory structure  
-IHFPs/  
+<pre> ```IHFPs/  
 ├── code/ : MATLAB function and script code  
 │ ├── IHFPs_config_prepare.m: environment configuration file  
 ├── example/  
@@ -15,7 +15,7 @@ IHFPs/
 | ├── gamlss_fig_script.m: script to use gamlss model to fit developmental trajectories of global mean functional connectivity  
 ├── resources/  
 │ ├── hcd_age_group/ :  age groups of subjects  
-├── README.md  
+├── README.md  ``` </pre>
   
 ## Dependencies  
 gordon gradient map: https://github.com/MidnightScanClub/MSCcodebase,  
